@@ -10,7 +10,7 @@ Efficiently simulate the Premier League 2023/24 season by leveraging statistical
   - Utilizes Expected Goals (xG) data to simulate fixtures, providing a realistic representation of scoring opportunities.
   - Calculates Expected Points (xPts) based on the simulated outcomes, offering a comprehensive performance metric.
   - Capable of simulating individual matches to analyze specific encounters.
-  - Extends functionality to simulate the entire Premier League 2023/24 season, allowing for a macroscopic view of team performance
+  - Extends functionality to simulate the entire Premier League 2023/24 season, allowing for a macroscopic view of team performance.
 
 - Future Additions:
   - Fixture Difficulty Integration: Enhance precision by incorporating fixture difficulty metrics, such as weighted Expected Goals (xG) and Expected Goals Against (xGA), refining the accuracy of diverse statistical calculations.
